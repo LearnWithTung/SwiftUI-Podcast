@@ -11,6 +11,7 @@
 		BDF87BB025EE6D1F008F6419 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF87BAF25EE6D1F008F6419 /* ContentView.swift */; };
 		BDF87BB225EE6D22008F6419 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDF87BB125EE6D22008F6419 /* Assets.xcassets */; };
 		BDF87BB525EE6D22008F6419 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDF87BB425EE6D22008F6419 /* Preview Assets.xcassets */; };
+		BDF87BC725EE85E1008F6419 /* SearchTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF87BC625EE85E1008F6419 /* SearchTypeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BDF87BB125EE6D22008F6419 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDF87BB425EE6D22008F6419 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BDF87BB625EE6D22008F6419 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDF87BC625EE85E1008F6419 /* SearchTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTypeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BDF87BAD25EE6D1F008F6419 /* PodcastApp.swift */,
 				BDF87BAF25EE6D1F008F6419 /* ContentView.swift */,
+				BDF87BC625EE85E1008F6419 /* SearchTypeView.swift */,
 				BDF87BB125EE6D22008F6419 /* Assets.xcassets */,
 				BDF87BB625EE6D22008F6419 /* Info.plist */,
 				BDF87BB325EE6D22008F6419 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDF87BC725EE85E1008F6419 /* SearchTypeView.swift in Sources */,
 				BDF87BB025EE6D1F008F6419 /* ContentView.swift in Sources */,
 				BDF87BAE25EE6D1F008F6419 /* PodcastApp.swift in Sources */,
 			);
